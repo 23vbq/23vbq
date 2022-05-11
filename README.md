@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and making the-witcher-cli (known as The Wiedźmin 4)
 - 📫 How to reach me:
   - vblackgp123@gmail.com
-  - reddit.com/u/Vblacqe
+  - [u/Vblacqe](https://reddit.com/u/Vblacqe)
 
 <!---
 23vbq/23vbq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
