@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @23vbq
-- 👀 I’m interested in programming, linux community, cats and idk
-- 🌱 I’m currently learning c++ and making the-witcher-cli (known as The Wiedźmin 4)
+- 👀 I’m interested in programming, game development, linux community, cats and idk
+- 🌱 I’m currently learning c++, c# and Unity
 - 📫 How to reach me:
   - vblackgp123@gmail.com
   - [u/Vblacqe](https://reddit.com/u/Vblacqe)
