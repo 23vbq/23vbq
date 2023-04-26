@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @23vbq
-- 👀 I’m interested in programming, game development, linux community, cats and idk
+- 👀 I’m interested in programming, game development, linux community, cats, photography and 3d modeling
 - 🌱 I’m currently learning c++, c# and Unity
 - 📫 How to reach me:
   - vblackgp123@gmail.com
