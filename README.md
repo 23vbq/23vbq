@@ -4,9 +4,9 @@
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/23vbq)
-[![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/23vbq)
-[![JavaScript](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/23vbq)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC)](https://github.com/23vbq)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple)](https://github.com/23vbq)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/23vbq)
 
 <br><br>
 <p><a href="https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
