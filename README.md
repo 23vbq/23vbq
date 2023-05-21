@@ -5,7 +5,7 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/23vbq)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=csharp)](https://github.com/23vbq)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)]
 <!---
 - 👋 Hi, I’m @23vbq
 - 👀 I’m interested in programming, game development, linux community, cats, photography and 3d modeling
