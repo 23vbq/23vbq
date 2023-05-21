@@ -9,7 +9,10 @@
 [![JavaScript](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/23vbq)
 
 <br><br>
+<p><a href="https://www.buymeacoffee.com/https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
+<!---
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=2d2121)](https://www.buymeacoffee.com/23vbq)
+--->
 <!---
 - 👋 Hi, I’m @23vbq
 - 👀 I’m interested in programming, game development, linux community, cats, photography and 3d modeling
