@@ -4,7 +4,7 @@
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC)](https://github.com/23vbq)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/23vbq)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple)](https://github.com/23vbq)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/23vbq)
 
