@@ -1,6 +1,8 @@
 <h1 align="center">23vbq</h1>
 <p align="center">
   <b>Welcome in my profile</b>
+  [![Instagram](https://img.shields.io/badge/Instagram-F28A8A?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/vbq_3d)
+  Hi, I am a passionate programmer intrested particulary in C++ and C# (especially within Unity). I am still learning programming and constantly expanding my knowledge in these languages, while also exploring new ones. Additionally, I occasionally works on website development. However, my true passion lies in game development. Apart from programming, I have deep fascination for photography and 3d modeling.
 </p>
 
 ### Languages
