@@ -59,4 +59,4 @@ This policy is effective as of 2023-12-07
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at vblackgp123+catclicker@gmail.com. 
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at catclicker@proton.me. 
