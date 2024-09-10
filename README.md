@@ -6,6 +6,10 @@
   <a href="https://leetcode.com/23vbq/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23vbq&theme=github_dark_dimmed"/>
+</p>
+
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/23vbq)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple)](https://github.com/23vbq)
@@ -16,6 +20,10 @@
 [![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)](https://github.com/23vbq)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/23vbq)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=0096dc)](https://github.com/23vbq)
+
+### Learning
+[![Rails](https://img.shields.io/badge/Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=D30001)](https://github.com/23vbq)
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/23vbq)
 
 <br><br>
 <p><a href="https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
