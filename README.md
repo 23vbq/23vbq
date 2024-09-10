@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23vbq&theme=dracula&card_width=400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=23vbq&theme=dracula&card_width=400" width="400px"/>
   &emsp;
-  <img src="https://streak-stats.demolab.com?user=23vbq&theme=dracula&date_format=j%2Fn%5B%2FY%5D&card_width=400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=23vbq&theme=dracula&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=185.7" alt="GitHub Streak" />
 </p>
 
 ### Languages
