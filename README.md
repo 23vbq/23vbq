@@ -13,19 +13,20 @@
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/23vbq)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple)](https://github.com/23vbq)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/23vbq)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue&color=19212c)](https://github.com/23vbq)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple&color=19212c)](https://github.com/23vbq)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold&color=19212c)](https://github.com/23vbq)
 
 ### Technologies
-[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)](https://github.com/23vbq)
-[![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)](https://github.com/23vbq)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/23vbq)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=0096dc)](https://github.com/23vbq)
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=19212c)](https://github.com/23vbq)
+[![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&color=19212c)](https://github.com/23vbq)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&color=19212c)](https://github.com/23vbq)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=0096dc&color=19212c)](https://github.com/23vbq)
 
 ### Learning
-[![Rails](https://img.shields.io/badge/Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=D30001)](https://github.com/23vbq)
-[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/23vbq)
+[![Rails](https://img.shields.io/badge/Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=D30001&color=19212c)](https://github.com/23vbq)
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=19212c)](https://github.com/23vbq)
+[![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=ffffff&color=19212c)](https://github.com/23vbq)
 
 <br><br>
 <p><a href="https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
