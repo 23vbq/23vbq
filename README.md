@@ -16,6 +16,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue&color=19212c)](https://github.com/23vbq)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple&color=19212c)](https://github.com/23vbq)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold&color=19212c)](https://github.com/23vbq)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=aaafff&color=19212c)](https://github.com/23vbq)
 
 ### Technologies
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=19212c)](https://github.com/23vbq)
