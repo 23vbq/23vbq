@@ -21,13 +21,13 @@
 ### Technologies
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=19212c)](https://github.com/23vbq)
 [![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&color=19212c)](https://github.com/23vbq)
+[![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=ffffff&color=19212c)](https://github.com/23vbq)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&color=19212c)](https://github.com/23vbq)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=0096dc&color=19212c)](https://github.com/23vbq)
 
 ### Learning
 [![Rails](https://img.shields.io/badge/Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=D30001&color=19212c)](https://github.com/23vbq)
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=19212c)](https://github.com/23vbq)
-[![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=ffffff&color=19212c)](https://github.com/23vbq)
 
 <br><br>
 <p><a href="https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
