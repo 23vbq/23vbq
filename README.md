@@ -1,22 +1,49 @@
-<h1 align="center">23vbq</h1>
-<p align="center">
-  <b>Welcome in my profile</b><br>
-  <i>Hi, I am a passionate programmer intrested particulary in C++ and C# (especially within Unity).<br> I am still learning programming and constantly expanding my knowledge in these languages, while also exploring new ones.<br> Additionally, I occasionally works on website development.<br> However, my true passion lies in game development.<br> Apart from programming, I have deep fascination for photography and 3d modeling.</i><br><br>
-  <a href="https://instagram.com/vbq_3d"><img src="https://img.shields.io/badge/Instagram-F28A8A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/23vbq/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+## 🚀 Backend Developer (PHP / Symfony)
+Backend Developer with 2+ years of experience working on complex internal business system.
+
+In a small team environment, responsible for delivering features end-to-end, from backend logic to frontend implementation using Symfony (Twig, Stimulus, Turbo).
+
+Actively involved in maintaining and improving the system, including implementing new features, fixing issues, and refactoring existing code.
+Participation in system design and feature planning - collaborating with stakeholders to define requirements, proposing solutions, and validationg functionality before implementation.
+
+Working on internal business system (APS / MES) used daily within the company.
+- Complex business logic
+- Multiple modules and integrations
+- Continuous development and feature expansion
+
+### 🛠️ Stack
+- **Backend**: PHP, Symfony
+- **Frontend**: Twig, Stimulus, Turbo
+- **Database**: MySQL
+- **Tools**: Docker, Git
+
+<!--
+### 🛠️ Stack
+- Backend:
+  [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=aaafff&color=19212c)](https://github.com/23vbq) [![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=ffffff&color=19212c)](https://github.com/23vbq)
+- Frontend: Twig, Stimulus, Turbo
+- Database: MySQL
+- Tools: Docker, Git
+- -->
+
+### 🧩 Other Interests
+- Game development in Unity (C#)
+- Exploring low-level programming in C++
+- 3D modeling (Blender)
+- Photography
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23vbq&theme=dracula&card_width=400" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=23vbq&theme=github_dark_dimmed&card_width=400&include_all_commits=true&show_icons=true" width="400px"/>
   &emsp;
-  <img src="https://streak-stats.demolab.com?user=23vbq&theme=dracula&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=185.7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=23vbq&theme=github_dark_dimmed&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=179" alt="GitHub Streak" />
 </p>
 
+<!--
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue&color=19212c)](https://github.com/23vbq)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=purple&color=19212c)](https://github.com/23vbq)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold&color=19212c)](https://github.com/23vbq)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=aaafff&color=19212c)](https://github.com/23vbq)
+
 
 ### Technologies
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=19212c)](https://github.com/23vbq)
@@ -28,24 +55,5 @@
 ### Learning
 [![Rails](https://img.shields.io/badge/Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=D30001&color=19212c)](https://github.com/23vbq)
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=19212c)](https://github.com/23vbq)
+-->
 
-<br><br>
-<p><a href="https://bmc.link/23vbq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/23vbq" /></a></p>
-<!---
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=2d2121)](https://www.buymeacoffee.com/23vbq)
-[![Instagram](https://img.shields.io/badge/Instagram-F28A8A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vbq_3d)
---->
-<!---
-- 👋 Hi, I’m @23vbq
-- 👀 I’m interested in programming, game development, linux community, cats, photography and 3d modeling
-- 🌱 I’m currently learning c++, c# and Unity
-- 📫 How to reach me:
-  - vblackgp123@gmail.com
-  - [u/Vblacqe](https://reddit.com/u/Vblacqe)
---->
-<!---
-23vbq/23vbq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 💞️ I’m looking to collaborate on ...
---->
