@@ -11,7 +11,7 @@ functionality before implementation.
 🛠️ Stack
 
 * Backend: PHP, Symfony, Doctrine ORM
-* Databases: MySQL
+* Databases: MySQL, PostgreSQL
 * Templating: Twig, Stimulus, Turbo
 * Tools: Docker, Git, GitLab CI/CD, PHPUnit, PHPStan
 
